@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek-g2411/leetcode_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek-g2411/leetcode_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
