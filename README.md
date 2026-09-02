@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0231-power-of-two) |
 | [0877-stone-game](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek-g2411/leetcode_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
