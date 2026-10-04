@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0877-stone-game) |
+| [1929-concatenation-of-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
