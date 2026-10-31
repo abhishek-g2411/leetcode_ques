@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0877-stone-game) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
