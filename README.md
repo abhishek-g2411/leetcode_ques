@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-g2411/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
 ## Stack
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
