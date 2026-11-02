@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0877-stone-game) |
 | [1929-concatenation-of-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0231-power-of-two) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0877-stone-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek-g2411/leetcode_ques/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
