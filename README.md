@@ -84,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/abhishek-g2411/leetcode_ques/tree/master/1929-concatenation-of-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishek-g2411/leetcode_ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishek-g2411/leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishek-g2411/leetcode_ques/tree/master/1021-remove-outermost-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhishek-g2411/leetcode_ques/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
